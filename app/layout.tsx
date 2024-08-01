@@ -59,6 +59,7 @@ export default function RootLayout({
     </ClerkProvider>
   );
 }
+
 // export default function RootLayout({
 //   children,
 // }: Readonly<{
